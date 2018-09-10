@@ -49,13 +49,14 @@ body {
 }
 
 .row {
+    padding-top: 35px;
     border: red;
     color: white;
     text-align: center;
 }
 
 .col-sm {
-    border: dotted;
+    border: dotted yellow;
     height: 300px;
     font-family: star wars;
 
