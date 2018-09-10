@@ -18,13 +18,13 @@ body {
     height: 200px;
     text-align: center;
     font-family: star wars;
-    font-size: 135px;
+    font-size: 145px;
 }
 
 .smallHeader {
-    /* transform: rotate(-7.5deg); */
+    /* transform: rotate(-5deg); */
     color: white;
-    text-shadow: 0 0 10px black;
+    text-shadow: 0 0 40px black;
     font-size: 50px;
     margin: -70px;
 }
