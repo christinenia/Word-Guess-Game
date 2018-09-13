@@ -29,5 +29,3 @@ document.addEventListener("keypress", (event) => {
      else wrongWord.push(keyword);
      
 });
-
-

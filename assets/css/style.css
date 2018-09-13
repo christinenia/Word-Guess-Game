@@ -38,28 +38,32 @@ body {
     margin: auto;
 
 }
-
-.column {
-    width: 49%;
-    height: 50px;
-    padding: 10px;
-    color: white;
-    display: inline-block;
-    position: relative;
-}
-
 .row {
     padding-top: 35px;
-    border: red;
     color: white;
     text-align: center;
 }
 
 .col-sm {
-    border: dotted yellow;
-    height: 300px;
+    border: 10px dotted yellow;
+    height: 550px;
     font-family: star wars;
 
+}
+.winScore {
+    padding-top: 35px;
+}
+
+.loseScore {
+    padding-top: 35px;
+}
+
+.wrongGuesses {
+    padding-top: 35px;
+}
+
+.guessesLeft {
+    padding-top: 35px;
 }
 
 @media screen and (max-width: 600px) {
