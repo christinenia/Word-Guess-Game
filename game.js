@@ -5,7 +5,7 @@ var randomWord = Math.floor(Math.random() * wordList.length);
 var rightWord = [];
 var wrongWord = [];
 var chosenWord = wordList[randomWord];
-// console.log(chosenWord);
+console.log(chosenWord);
 var underScore = [];
 
 var generateUnderscore = () => {
